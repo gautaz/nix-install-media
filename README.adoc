@@ -5,9 +5,10 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 endif::[]
-:toc: left
 
-= https://nixos.org/[NixOS] installation media
+= DEPRECATED https://nixos.org/[NixOS] installation media
+
+WARNING: This repository has been superseded by https://github.com/gautaz/phoenix[gautaz/phoenix].
 
 For now, the installation media only targets my main use case which is deploying workstations:
 
